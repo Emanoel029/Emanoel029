@@ -12,7 +12,7 @@
 <br>
 <p>Busco sempre está atualizado e manter os estudos em dia.</p>
 
-- 📖 Formado em Sistemas de inormação
+- 📖 Formado em Sistemas de informação
 - ✔  Hoje trabalho como desenvolvedor de Software
 - 🤝 Adoro trabalhar em equipe e ajudar a comunidade dev a crescer
 - 📫 Como me encontrar
