@@ -10,7 +10,8 @@
 </div> 
 <br>
 <br>
-<p>Busco sempre está atualizado e manter os estudos em dia.</p>
+<p>Sou desenvolvedor Front-end adoro criar experiências na web, interatividades, responsividade. Habilidades com JavaScript, HTML, CSS, Sass, Gulp, Git e GitHub.
+ Constantemente buscando aprender e aprimorar minha habilidades em desenvolvimento web, seguindo as melhores práticas.</p>
 
 - 📖 Formado em Sistemas de informação
 - ✔  Hoje trabalho como desenvolvedor de Software
