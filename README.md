@@ -27,6 +27,6 @@
   <a href="https://www.linkedin.com/in/emanoel-timb%C3%B3-a90b62272/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:emanoelpontes8@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/emanoeltimbo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  
+  <a href="https://emanoel029.github.io/portfolio-emanoel/" target="_blank">(CLIKE_AQUI_PORTFÓLIO)</a>
 </div>
 
