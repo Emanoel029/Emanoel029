@@ -16,7 +16,7 @@
 - 📖 Formado em Sistemas de informação
 - ✔  Hoje trabalho como desenvolvedor de Software
 - 🤝 Adoro trabalhar em equipe e ajudar a comunidade dev a crescer
-- 📫 Como me encontrar
+- 📫 Como me encontrar emanoelpontes8@gmeil.com <a href="https://emanoel029.github.io/portfolio-emanoel/" target="_blank">(PORTFÓLIO)</a>
   
 
 
