@@ -1,4 +1,4 @@
-# Eu sou, Emanoel Timbó 😎
+# I am Emanoel Timbó 😎
 
 <div style="display: inline_block"><br>
   <img align="center" alt="mano-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -10,13 +10,12 @@
 </div> 
 <br>
 <br>
-<p>Sou desenvolvedor Front-end adoro criar experiências na web, interatividades, responsividade. Habilidades com JavaScript, HTML, CSS, Sass, Gulp, Git e GitHub.
- Constantemente buscando aprender e aprimorar minha habilidades em desenvolvimento web, seguindo as melhores práticas.</p>
+<p>I'm a front-end developer who loves creating web experiences, interactivity and responsiveness. I'm skilled in JavaScript, HTML, CSS, Sass, Gulp, Git and GitHub. I'm constantly looking to learn and improve my web development skills, following best practices.</p>
 
-- 📖 Formado em Sistemas de informação
-- ✔  Hoje trabalho como desenvolvedor de Software
-- 🤝 Adoro trabalhar em equipe e ajudar a comunidade dev a crescer
-- 📫 Como me encontrar: emanoelpontes8@gmail.com
+- 📖 Graduated in Information Systems
+- ✔  Today I work as a software developer
+- 🤝 I love working in a team and helping the dev community grow
+- 📫 Finding me: emanoelpontes8@gmail.com
 - 📫 Acesse o link: <a href="https://emanoel029.github.io/portfolio-emanoel/" target="_blank">(PORTFÓLIO)</a>
   
 
